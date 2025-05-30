@@ -76,4 +76,4 @@
 </p>
 
 
-![snake gif](https://github.com/efyasarr/efyasarr/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/efyasarr/efyasarr/blob/output/github-snake-dark.svg)
